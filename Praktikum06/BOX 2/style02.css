@@ -1,0 +1,53 @@
+.atas {
+    display: flex;
+}
+
+.yellow {
+    height: 40px;
+    width: 25%;
+    background-color: yellow;
+    margin-right: 1%;
+    border: solid black;
+}
+
+.orange {
+    height: 40px;
+    width: 75%;
+    background-color: orange;
+    margin-left: 1%;
+    border: solid black;
+}
+
+.tengah {
+    display: flex;
+    margin-top: 1%;
+    gap: 2%;
+}
+.green {
+    height: 730px;
+    width: 25%;
+    background-color: green;
+    border: solid black;
+}
+
+.grey {
+    height: 730px;
+    width: 50%;
+    background-color: grey;
+    border: solid black;
+}
+
+.sky {
+    height: 730px;
+    width: 25%;
+    background-color: skyblue;
+    border: solid black;
+}
+
+.bawah {
+    height: 40px;
+    width: 100%;
+    background-color: blue;
+    margin-top: 1%;
+    border: solid black;
+}

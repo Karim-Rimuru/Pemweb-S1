@@ -1,0 +1,47 @@
+.box-1 {
+    width: 100%;
+    height: 150px;
+    background-color: greenyellow;
+    border: solid black;
+}
+
+.box-2 {
+    display: flex;
+    margin-top: 5%;
+}
+
+.gold {
+    width: 20%;
+    height: 300px;
+    background-color: gold;
+    border: solid black;
+}
+
+.red {
+    width: 80%;
+    height: 300px;
+    background-color: red;
+    margin-left: 5%;
+    border: solid black;
+}
+
+.box-3 {
+    display: flex;
+    margin-top: 5%;
+}
+
+.gold0 {
+    width: 20%;
+    height: 250px;
+    background-color: goldenrod;
+    border: solid black;
+
+}
+
+.blue {
+    width: 80%;
+    height: 250px;
+    background-color: blue;
+    margin-left: 5%;
+    border: solid black;
+}

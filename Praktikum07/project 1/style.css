@@ -1,0 +1,17 @@
+header {
+    background-color: skyblue;
+    margin: -18px -10px;
+}
+img {
+    width: 50px;
+    margin-right: 200px;
+}
+header ul {
+    display: flex;
+    align-items: center;
+    padding: 4px;
+    list-style: none;
+}
+li {
+    margin: 2px 7px;
+}
